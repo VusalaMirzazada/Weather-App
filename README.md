@@ -26,7 +26,19 @@ A modern and responsive weather dashboard that provides real-time weather inform
 
 ##  API Setup
 
-Add your OpenWeather API key in `script.js`.
-
-```javascript
+Add your OpenWeather API key in script.js.
+ 
 const apiKey = "YOUR_API_KEY";
+
+
+## Future Improvements
+
+- 5-day weather forecast
+
+- Location-based weather detection
+
+- More UI animations
+
+##  Author
+
+Vüsalə Mirzəzadə
